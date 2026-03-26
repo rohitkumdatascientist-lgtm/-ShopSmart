@@ -75,7 +75,7 @@ Data Collection → Data Cleaning → Feature Engineering
 
 1️⃣ Clone repository  
 ```bash
-git clone https://github.com/your-username/shop_smart.git
+git clone https:/rohitkumdatascientist-lgtm/github.com//shop_smart.git
 cd shop_smart
 
 2️⃣ Install dependencies
